@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Module 2 Project",
+      "firstName": "Brunella",
+      "lastName": "Carvalho",
+      "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQG9815cCiJCHw/profile-displayphoto-shrink[…]43638400&v=beta&t=8vnsbavuoQRnTVMSLiIQv4XwINh47Ijvuxy0LxU9RIc",
+      "age": 35,
+      "weight": 59,
+      "height": 1.67,
+      "email": "brunella.nmcarvalho1@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Victor",
+      "lastName": "Marchesi",
+      "profilePicture": "https://media.licdn.com/dms/image/v2/C4D03AQH274eJuRkpsQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1616875014389?e=1743638400&v=beta&t=YB1XC-yJK1zAHNqmLYiXeU_oG9K7zuMAXy20pkdaqpg",
+      "age": 33,
+      "weight": 61,
+      "height": 1.69,
+      "email": "victor.marchesi91@gmail.com"
+    }
+  ],
+  "trainings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "longRun",
+      "date": "2025-01-20",
+      "distance": 5,
+      "duration": 30,
+      "pace": "6:00 min/km",
+      "notes": "Felt good today!",
+      "isDone": true,
+      "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": "interval",
+      "date": "2024-11-27",
+      "distance": 3,
+      "duration": 20,
+      "pace": "5:00 min/km",
+      "notes": "Intervals felt tough!",
+      "isDone": true,
+      "picture": "https://webrun.com.br/wp-content/uploads/2020/07/Fotolia_175939586_Subscription_Monthly_M-1200x800-1.jpg"
+    }
+  ]
+}
