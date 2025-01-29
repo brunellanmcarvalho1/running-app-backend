@@ -46,6 +46,42 @@
       "notes": "Intervals felt tough!",
       "isDone": true,
       "picture": "https://webrun.com.br/wp-content/uploads/2020/07/Fotolia_175939586_Subscription_Monthly_M-1200x800-1.jpg"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "type": "recoveryRun",
+      "date": "2025-01-23",
+      "distance": 6,
+      "duration": 45,
+      "pace": "6:20 min/km",
+      "notes": "Felt good today!",
+      "isDone": true,
+      "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "type": "intervalRun",
+      "date": "2025-01-25",
+      "distance": 6.11,
+      "duration": 45,
+      "pace": "7:32 min/km",
+      "notes": "Felt tired today!",
+      "isDone": true,
+      "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "type": "tempoRun",
+      "date": "2025-01-27",
+      "distance": 10.0,
+      "duration": 60,
+      "pace": "6:00 min/km",
+      "notes": "Felt tired today!",
+      "isDone": true,
+      "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
     }
   ]
 }
