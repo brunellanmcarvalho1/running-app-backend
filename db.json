@@ -26,7 +26,8 @@
     {
       "id": 1,
       "userId": 1,
-      "type": "longRun",
+      "trainingType": "streetRun",
+      "runType": "longRun",
       "date": "2025-01-20",
       "distance": 5,
       "duration": 30,
@@ -38,7 +39,8 @@
     {
       "id": 2,
       "userId": 1,
-      "type": "interval",
+      "trainingType": "treadmillRun",
+      "runType": "interval",
       "date": "2024-11-27",
       "distance": 3,
       "duration": 20,
@@ -50,7 +52,8 @@
     {
       "id": 3,
       "userId": 1,
-      "type": "recoveryRun",
+      "trainingType": "treadmillRun",
+      "runType": "recoveryRun",
       "date": "2025-01-23",
       "distance": 6,
       "duration": 45,
@@ -62,7 +65,8 @@
     {
       "id": 4,
       "userId": 2,
-      "type": "intervalRun",
+      "trainingType": "trackRun",
+      "runType": "intervalRun",
       "date": "2025-01-25",
       "distance": 6.11,
       "duration": 45,
@@ -74,7 +78,8 @@
     {
       "id": 4,
       "userId": 2,
-      "type": "tempoRun",
+      "trainingType": "trailRun",
+      "runType": "tempoRun",
       "date": "2025-01-27",
       "distance": 10.0,
       "duration": 60,
