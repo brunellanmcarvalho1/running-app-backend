@@ -34,6 +34,7 @@
       "pace": "6:00 min/km",
       "notes": "Felt good today!",
       "isDone": true,
+      "effort": "3",
       "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
     },
     {
@@ -47,6 +48,7 @@
       "pace": "5:00 min/km",
       "notes": "Intervals felt tough!",
       "isDone": true,
+      "effort": "3",
       "picture": "https://webrun.com.br/wp-content/uploads/2020/07/Fotolia_175939586_Subscription_Monthly_M-1200x800-1.jpg"
     },
     {
@@ -60,6 +62,7 @@
       "pace": "6:20 min/km",
       "notes": "Felt good today!",
       "isDone": true,
+      "effort": "4",
       "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
     },
     {
@@ -73,6 +76,7 @@
       "pace": "7:32 min/km",
       "notes": "Felt tired today!",
       "isDone": true,
+      "effort": "4",
       "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
     },
     {
@@ -86,6 +90,7 @@
       "pace": "6:00 min/km",
       "notes": "Felt tired today!",
       "isDone": true,
+      "effort": "5",
       "picture": "https://cdn.prod.website-files.com/652421babb6bdd7f92f721b7/652421babb6bdd7f92f722c1_beneficios-da-corrida.jpg"
     }
   ]
