@@ -2,24 +2,15 @@
   "user": [
     {
       "id": 1,
-      "username": "Module 2 Project",
-      "firstName": "Brunella",
-      "lastName": "Carvalho",
-      "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQG9815cCiJCHw/profile-displayphoto-shrink[…]43638400&v=beta&t=8vnsbavuoQRnTVMSLiIQv4XwINh47Ijvuxy0LxU9RIc",
-      "age": 35,
-      "weight": 59,
-      "height": 1.67,
-      "email": "brunella.nmcarvalho1@gmail.com"
+      "email": "brunella.nmcarvalho1@gmail.com",
+      "password": 123456,
+      "name": "brunella"
     },
     {
       "id": 2,
-      "firstName": "Victor",
-      "lastName": "Marchesi",
-      "profilePicture": "https://media.licdn.com/dms/image/v2/C4D03AQH274eJuRkpsQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1616875014389?e=1743638400&v=beta&t=YB1XC-yJK1zAHNqmLYiXeU_oG9K7zuMAXy20pkdaqpg",
-      "age": 33,
-      "weight": 61,
-      "height": 1.69,
-      "email": "victor.marchesi91@gmail.com"
+      "email": "victor.marchesi91@gmail.com",
+      "password": 123456,
+      "name": "victor"
     }
   ],
   "trainings": [
