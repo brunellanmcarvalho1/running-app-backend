@@ -30,7 +30,12 @@ server.post("/auth/signup", (req, res) => {
   }
 
   // Add new user to the database
-  const newUser = { id: users.length + 1, email, password, name };
+  const newUser = {
+    id: users.length ? Math.max(...users.map((user) => user.id)) + 1 : 1,
+    email,
+    password,
+    name,
+  };
   db.get("users").push(newUser).write();
 
   // Return success response
